@@ -1,9 +1,9 @@
 # Discord widget for Xbox Game Bar
-Just ![Preview](preview.png)
+![Preview](preview.png)
 ## Simple automatic installation
-Go to Releases page, download install.bat and run it (it will download other files itself). Wait for it to install.
+Go to [Releases](https://github.com/ImMALWARE/DiscordXGB/releases/latest) page, download [install.bat](https://github.com/ImMALWARE/DiscordXGB/releases/download/1.0/install.bat) and run it (it will download other files itself). Wait for it to install.
 ## Manual installation
-Go to Releases page, download 5 .appx files, DiscordXGB.msixbundle and DiscordXGB.cer
+Go to [Releases](https://github.com/ImMALWARE/DiscordXGB/releases/latest) page, download 5 .appx files, DiscordXGB.msixbundle and DiscordXGB.cer
 
 Open PowerShell **as Administrator**, Set-Location to directory with all downloaded files.
 
